@@ -64,6 +64,23 @@
 
 # `Project Insights:`
 1. Revenue Increased by around 28.8% ($55M to $57M) in last 53th week (clearly visible from below chart
-<img width="394" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/59c730c4-d70f-4d95-95c1-c1acec5a8446">
-<img width="543" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/821041ec-efce-4b21-81fa-95a60f3c01fe">
+   <img width="394" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/59c730c4-d70f-4d95-95c1-c1acec5a8446">
+   <img width="543" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/821041ec-efce-4b21-81fa-95a60f3c01fe">
+   
+2. Total Transaction Amount Increased from $45M -> $46M
+3. Total Interest Earned Increased from $7.8M -> $8.0M
+
+4. Male Customers are contributing more in Revenue in comparision to Female customers <br>
+   <img width="284" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/71f9af8a-0286-4573-8e7f-5f1aeece346e">
+   <img width="282" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/159c666e-cc95-4737-addf-978c609adeba">
+   
+5. Blue and Silver Card Holder Customers Contributing to 93% of overall transactions <br>
+   <img width="174" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/20e62103-95ce-46da-9b34-2af4f17562d8">
+
+6. TX(Texas), NY(New York) and CA(California) states are contributing 72% of overall transactions <br>
+   <img width="262" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/deb8e52c-8116-45a1-8bb0-aa33cba2658b">
+
+7. Overall Activation Rate is 57.5%.
+8. Overall Delinquent Rate(the amount of debt/loan that is past due, i.e customers who are unable to pay their loan) is 6.06%
+
 
