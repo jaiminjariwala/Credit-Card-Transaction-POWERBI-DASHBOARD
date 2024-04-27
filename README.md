@@ -9,8 +9,32 @@
 3. IMPORT CSV File into SQL.
 
 # `Loading/Importing data from (CSV)/(Excel) to MySQL`:
-<img width="1280" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/7f713134-e821-4ff4-9470-a3ad8bdff385">
+<img width="1280" alt="Loading_csv_data_into_MySQL" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/2370db43-dd65-4ea5-908f-7cfe13a14dd2">
+
 
 # `Loading/Importing data from (CSV)/(Excel) to PostgreSQL`:
-<img width="1280" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/7e8addca-9cea-48f4-ba2d-9680217d389d">
+<img width="1280" alt="Loading_csv_data_into_postgresql" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/23916091-f6f9-4389-9cc1-ff21722f1061">
+
+# `DAX Queries Written:`
+1. Created `AgeGroup` column in `cust_detail` table
+   ```
+   AgeGroup = SWITCH(
+    TRUE(),
+    'credit_card_db cust_detail'[Customer_Age] < 30, "20-30",
+    'credit_card_db cust_detail'[Customer_Age] >= 30 && 'credit_card_db cust_detail'[Customer_Age] < 40, "30-40",
+    'credit_card_db cust_detail'[Customer_Age] >= 40 && 'credit_card_db cust_detail'[Customer_Age] < 50, "40-50",
+    'credit_card_db cust_detail'[Customer_Age] >= 50 && 'credit_card_db cust_detail'[Customer_Age] < 60, "50-60",
+    'credit_card_db cust_detail'[Customer_Age] >= 60, "60+",
+    "unknown"
+)```
+
+2. Created `IncomeGroup` column in `cust_detail` table
+   ```
+   IncomeGroup = SWITCH(
+    TRUE(),
+    'credit_card_db cust_detail'[Income] < 35000, "Low",
+    'credit_card_db cust_detail'[Income] >= 35000 && 'credit_card_db cust_detail'[Income] < 70000, "Med",
+    'credit_card_db cust_detail'[Income] >= 70000, "High",
+    "unknown"
+)```
 
