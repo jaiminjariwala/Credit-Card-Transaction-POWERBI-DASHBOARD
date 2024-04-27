@@ -62,7 +62,7 @@
         'credit_card_db cc_detail'[week_num2] = MAX('credit_card_db cc_detail'[week_num2])-1))
    ```
 
-# `Project Insights:`
+# `TOP 10 Project Insights:`
 1. Revenue Increased by around 28.8% ($55M to $57M) in last 53th week (clearly visible from below chart
    <img width="394" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/59c730c4-d70f-4d95-95c1-c1acec5a8446">
    <img width="543" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/821041ec-efce-4b21-81fa-95a60f3c01fe">
@@ -83,4 +83,8 @@
 7. Overall Activation Rate is 57.5%.
 8. Overall Delinquent Rate(the amount of debt/loan that is past due, i.e customers who are unable to pay their loan) is 6.06%
 
+9. Customers who are graduated have contributed $22M / $55M = 40% of overall transactions <br>
+   <img width="231" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/81a6ef77-91a4-4df0-b888-d0ec750af587">
 
+10. Similary customers who are businessman have contributed $17.4M / $55M = 31.6% of overall transactions <br>
+    <img width="215" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/89eae9d7-4347-4256-8f18-65bebc74ab2d">
