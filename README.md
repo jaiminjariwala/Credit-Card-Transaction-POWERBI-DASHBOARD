@@ -74,17 +74,17 @@
    <img width="284" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/71f9af8a-0286-4573-8e7f-5f1aeece346e">
    <img width="282" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/159c666e-cc95-4737-addf-978c609adeba">
    
-5. Blue and Silver Card Holder Customers Contributing to 93% of overall transactions <br>
+5. Blue and Silver Card Holder Customers Contributing to `93%` of overall transactions <br>
    <img width="174" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/20e62103-95ce-46da-9b34-2af4f17562d8">
 
-6. TX(Texas), NY(New York) and CA(California) states are contributing 72% of overall transactions <br>
+6. TX(Texas), NY(New York) and CA(California) states are contributing `72%` of overall transactions <br>
    <img width="262" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/deb8e52c-8116-45a1-8bb0-aa33cba2658b">
 
-7. Overall Activation Rate is 57.5%.
-8. Overall Delinquent Rate(the amount of debt/loan that is past due, i.e customers who are unable to pay their loan) is 6.06%
+7. Overall Activation Rate is `57.5%`
+8. Overall Delinquent Rate(the amount of debt/loan that is past due, i.e customers who are unable to pay their loan) is `6.06%`
 
-9. Customers who are graduated have contributed $22M / $55M = 40% of overall transactions <br>
+9. Customers who are graduated have contributed $22M / $55M = `40%` of overall transactions <br>
    <img width="231" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/81a6ef77-91a4-4df0-b888-d0ec750af587">
 
-10. Similary customers who are businessman have contributed $17.4M / $55M = 31.6% of overall transactions <br>
+10. Similary customers who are businessman have contributed $17.4M / $55M = `31.6%` of overall transactions <br>
     <img width="215" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/89eae9d7-4347-4256-8f18-65bebc74ab2d">
