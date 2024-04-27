@@ -8,7 +8,9 @@
 2. CREATE TABLES in SQL (MySQL / PostgreSQL)
 3. IMPORT CSV File into SQL.
 
-# Loading / Import data from CSV / Excel to `MySQL`:
+# `Loading/Importing data from (CSV)/(Excel) to MySQL`:
 <img width="1280" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/7f713134-e821-4ff4-9470-a3ad8bdff385">
 
-# Loading / Importing data from CSV / Excel to `PostgreSQL`:
+# `Loading/Importing data from (CSV)/(Excel) to PostgreSQL`:
+<img width="1280" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/7e8addca-9cea-48f4-ba2d-9680217d389d">
+
