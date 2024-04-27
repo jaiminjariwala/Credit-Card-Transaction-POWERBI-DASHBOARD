@@ -40,10 +40,10 @@
    )
    ```
 
-3. Created (week_num2) column in (cc_detail) table, for to get sorted whole number for original (week_num) column
+3. Created (week_num2) column in (cc_detail) table, for to get sorted whole number for original (week_num) column <br>
    ```week_num2 = WEEKNUM('credit_card_db cc_detail'[Week_Start_Date])```
 
-4. Created (Revenue) column in (cc_detail) table
+4. Created (Revenue) column in (cc_detail) table <br>
    ```Revenue = 'credit_card_db cc_detail'[Annual_Fees] + 'credit_card_db cc_detail'[Total_Trans_Amt] + 'credit_card_db cc_detail'[Interest_Earned]```
 
 5. Created (Current_Week_Revenue) and (Previous_Week_Revenue) MEASURE in (cc_detail) table
@@ -63,4 +63,7 @@
    ```
 
 # `Project Insights:`
+1. Revenue Increased by around 28.8% ($55M to $57M) in last 53th week (clearly visible from below chart
+<img width="394" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/59c730c4-d70f-4d95-95c1-c1acec5a8446">
+<img width="543" alt="image" src="https://github.com/jaiminjariwala/Credit-Card-Transaction-POWERBI-DASHBOARD/assets/157014747/821041ec-efce-4b21-81fa-95a60f3c01fe">
 
